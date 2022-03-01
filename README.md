@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 I'm a GeoData scientist at [Deltares](https://deltares.nl) and an external PhD candidate at the [3d geoinfo group at the TU Delft](3d.bk.tudelft.nl/) working on elevation modelling.
+- 🌱 I'm the author of several open-source packages in Julia related to geospatial processing, such as [GeoArrays](https://github.com/evetion/GeoArrays.jl), [GeoDataFrames](https://github.com/evetion/GeoDataFrames.jl) and [LazIO](https://github.com/evetion/LazIO.jl).
+- ⚡ In my free time I tinker with open data and open-source software, but I also read, climb, boulder, mountaineer and ride a motorbike.
+- 💬 You can get in touch with me by email at git@evetion.nl, Twitter (@3vetion), and [LinkedIn](https://nl.linkedin.com/in/maarten-pronk).
+
+
+
 <!--
 **evetion/evetion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
